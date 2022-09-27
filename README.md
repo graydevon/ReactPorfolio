@@ -23,7 +23,8 @@ Once the repository is cloned, use `npm i` to install the required packages.
 ## Usage
 When the user goes onto the page. They will be able to click around to which ever section they want to jump to (projects, resume, about me, skills). User will be able to click into my github repo and linkedin.
 
-![shows part of the portfolio.]()
+<img width="941" alt="homescreen" src="https://user-images.githubusercontent.com/102159748/192419118-f4b0e6e4-9a92-4876-94fa-93a57a854468.png">
+    
 
 ## Technologies
 - [Create React App](https://github.com/facebook/create-react-app)
