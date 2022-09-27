@@ -4,7 +4,7 @@
 ## Description
 This application will show my personal portfolio!
 
-Deployed application: https://graydevon.github.io/React-Portfolio/  
+Deployed application: https://graydevon.github.io/ReactPorfolio/ 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ Deployed application: https://graydevon.github.io/React-Portfolio/
 ## Installation
 In order to use this project, the user must have Node.js installed on their local machine.
 
-To clone the repository, type `git clone git@github.com:graydevon/react-portfolio.git` in the command-line.
+To clone the repository, type `git clone git@github.com:graydevon/reactportfolio.git` in the command-line.
 
 Once the repository is cloned, use `npm i` to install the required packages.
 
